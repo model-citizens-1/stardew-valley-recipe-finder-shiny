@@ -4,7 +4,7 @@ An interactive R Shiny application that helps players discover which Stardew Val
 
 ## Live app
 
-This repository is prepared for deployment on [Posit Connect Cloud](https://connect.posit.cloud/). A public app link will be added here after the initial deployment.
+[Launch the Stardew Valley Recipe Finder](https://franklinxzhou-stardew-valley-recipe-finder.share.connect.posit.cloud/)
 
 ## R and Shiny skills demonstrated
 
